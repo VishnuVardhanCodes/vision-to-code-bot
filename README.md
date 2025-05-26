@@ -13,18 +13,24 @@ A tool that takes visual input and generates code based on it.
 - HTML/CSS/JS
 
 ## Getting Started
+To:
+```markdown
 ```bash
 npm install
 node server.js
+
 Clone the repo and open `index.html` in your browser.
 
-## 📁 Project Structure
+##  Project Structure
 -app.js - Main application logic
 -server.js - Server code
 -index.html - Frontend UI
 -style.css - Styles
 -script.js - Client-side JavaScript
 
+## 📄 License
+
+MIT
 
 ## Author
-VishnuVardhanCodes!!
+VishnuVardhanCodes
